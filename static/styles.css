@@ -1,0 +1,25 @@
+body {
+    background-color: #9ecffc;
+}
+
+.result-container {
+    display: flex;
+    align-items: center;
+}
+
+.result-container h2 {
+    padding-left: 20px;
+}
+
+.result-container img {
+max-width: 400px;
+max-height: 400px;
+}
+
+ul {
+    margin-left: 45px;
+}
+
+li {
+    font-size: x-large;
+}
